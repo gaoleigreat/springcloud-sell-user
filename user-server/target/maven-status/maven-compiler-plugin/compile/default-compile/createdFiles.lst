@@ -1,0 +1,15 @@
+com\xiaodao\user\utils\ResultVOUtil.class
+com\xiaodao\user\VO\ResultVO.class
+com\xiaodao\user\repository\UserInfoRepostory.class
+com\xiaodao\user\service\UserService.class
+com\xiaodao\user\controller\LoginController.class
+com\xiaodao\user\service\impl\UserServiceImpl.class
+com\xiaodao\user\utils\CookieUtil.class
+com\xiaodao\user\constant\RedisConstant.class
+com\xiaodao\user\utils\JsonUtil.class
+com\xiaodao\user\constant\CookieConstant.class
+com\xiaodao\user\UserApplication.class
+com\xiaodao\user\enums\ResultEnum.class
+com\xiaodao\user\dataobject\UserInfo.class
+com\xiaodao\user\enums\RoleEnum.class
+com\xiaodao\user\utils\KeyUtil.class
